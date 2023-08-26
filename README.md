@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend Dev
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate with like minds like me to push further my career in frontend dev
-- 📫 How to reach me on twitter @Iam_Reubben
+- 📫 How to reach me on twitter @Iam_Reubeen
 
 <!---
 reubee/reubee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
